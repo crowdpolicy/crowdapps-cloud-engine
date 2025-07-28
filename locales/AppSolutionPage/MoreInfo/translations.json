@@ -1,0 +1,12 @@
+{
+  "el": {
+    "title": "Περισσότερες πληροφορίες",
+    "presentation": "Προβολή παρουσίασης",
+    "flyer": "Προβολή φυλλαδίου"
+  },
+  "en": {
+    "title": "More information",
+    "presentation": "View presentation",
+    "flyer": "Read the article"
+  }
+}

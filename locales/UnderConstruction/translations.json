@@ -1,0 +1,12 @@
+{
+  "el": {
+    "title": "Κάτι σπουδαίο ετοιμάζεται!",
+    "subTitle": "Η σελίδα αυτή είναι υπό κατασκευή.",
+    "button": "Πίσω στην αρχική"
+  },
+  "en": {
+    "title": "Something great is in the making!",
+    "subTitle": "This page is under construction.",
+    "button": "Back to home page"
+  }
+}

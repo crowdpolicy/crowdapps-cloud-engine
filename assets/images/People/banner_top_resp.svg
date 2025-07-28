@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393" height="5" viewBox="0 0 393 5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.982" y1="0.539" x2="0.135" y2="0.483" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8668a9"/>
+      <stop offset="0.163" stop-color="#4180d2"/>
+      <stop offset="0.261" stop-color="#52adde"/>
+      <stop offset="0.424" stop-color="#67b364"/>
+      <stop offset="0.562" stop-color="#9fcb5f"/>
+      <stop offset="0.709" stop-color="#f7c549"/>
+      <stop offset="0.852" stop-color="#e6953d"/>
+      <stop offset="1" stop-color="#e27270"/>
+    </linearGradient>
+  </defs>
+  <rect id="banner_top" width="393" height="5" fill="url(#linear-gradient)"/>
+</svg>

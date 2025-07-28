@@ -1,0 +1,22 @@
+{
+  "el": {
+    "crowdapps": "Τα Crowdapps",
+    "appServ": "Εφαρμογές & Υπηρεσίες",
+    "sectors": "Τομείς",
+    "contact": "Επικοινωνία",
+    "aboutProducts": "Σχετικά με τα προϊόντα και τις υπηρεσίες",
+    "support360": "Υποστήριξη 360",
+    "terms": "Όροι Χρήσης",
+    "designed": "Σχεδιασμός και υλοποίηση από την Crowdpolicy"
+  },
+  "en": {
+    "crowdapps": "The Crowdapps",
+    "appServ": "Applications & Services",
+    "sectors": "Sectors",
+    "contact": "Contact",
+    "aboutProducts": "About the products and services",
+    "support360": "360 Support",
+    "terms": "Terms of Use",
+    "designed": "Designed and implemented by Crowdpolicy"
+  }
+}

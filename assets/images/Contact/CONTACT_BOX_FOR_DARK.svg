@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1006" height="529" viewBox="0 0 1006 529">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5136" data-name="Rectangle 5136" width="1006" height="529" rx="50" transform="translate(-0.162)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.976" y1="0.5" x2="0.027" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8668a9"/>
+      <stop offset="0.167" stop-color="#4180d2"/>
+      <stop offset="0.316" stop-color="#52adde"/>
+      <stop offset="0.464" stop-color="#67b364"/>
+      <stop offset="0.594" stop-color="#9fcb5f"/>
+      <stop offset="0.736" stop-color="#f7c549"/>
+      <stop offset="0.861" stop-color="#e6953d"/>
+      <stop offset="1" stop-color="#e27270"/>
+    </linearGradient>
+  </defs>
+  <g id="CONTACT_BOX" transform="translate(-845 -6071)">
+    <rect id="Rectangle_5127" data-name="Rectangle 5127" width="1006" height="529" rx="50" transform="translate(845 6071)" fill="#fff"/>
+    <g id="Mask_Group_12148" data-name="Mask Group 12148" transform="translate(845.162 6071)" clip-path="url(#clip-path)">
+      <rect id="Rectangle_5130" data-name="Rectangle 5130" width="1014" height="46" transform="translate(-4.162 483)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

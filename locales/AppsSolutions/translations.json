@@ -1,0 +1,20 @@
+{
+  "el": {
+    "title": "Εφαρμογές και λύσεις για τον Ψηφιακό Μετασχηματισμό",
+    "subTittle": "Παρέχουμε μια σουίτα εφαρμογών και λύσεων, οι οποίες έρχονται να εξυπηρετήσουν τις ανάγκες της Τοπικής Αυτοδιοίκησης με σύγχρονες, αποτελεσματικές και εξατομικευμένες μεθόδους.",
+    "memorandum": "Υπόμνημα",
+    "apps": "Εφαρμογές",
+    "services": "Υπηρεσίες",
+    "card": "Περισσότερα",
+    "button": "Όλες οι Εφαρμογές"
+  },
+  "en": {
+    "title": "Applications and Solutions for Digital Transformation",
+    "subTittle": "We provide a suite of applications and solutions designed to meet the needs of Local Government with modern, effective, and personalized methods.",
+    "memorandum": "Memorandum",
+    "apps": "Applications",
+    "services": "Services",
+    "card": "More",
+    "button": "All Applications"
+  }
+}

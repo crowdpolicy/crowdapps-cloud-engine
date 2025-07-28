@@ -1,0 +1,299 @@
+.firstNotHovered {
+  background-image: url("../assets/images/Menu/ListBackground/First/EF_YP_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/First/EF_YP_TOP.svg"),
+    url("../assets/images/Menu/ListBackground/First/EF_YP_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-out 0.4s first forwards;
+}
+.firstHovered {
+  background-image: url("../assets/images/Menu/ListBackground/First/EF_YP_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/First/EF_YP_TOP.svg"),
+    url("../assets/images/Menu/ListBackground/First/EF_YP_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-in 0.4s firstHover forwards;
+}
+.firstClicked {
+  background-image: url("../assets/images/Menu/ListBackground/First/EF_YP_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/First/EF_YP_TOP.svg"),
+    url("../assets/images/Menu/ListBackground/First/EF_YP_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-in 0.4s firstClicked forwards;
+}
+@keyframes first {
+  0% {
+    background-size: 2vw, 2.5vw, 2vw;
+    background-position:
+      0% 100%,
+      65% 0%,
+      100% 100%;
+    font-size: 3vw;
+  }
+  100% {
+    background-position:
+      30% 80%,
+      55% 50%,
+      80% 80%;
+    background-size: 0, 0, 0;
+    font-size: 2.5vw;
+  }
+}
+@keyframes firstHover {
+  0% {
+    background-position:
+      30% 80%,
+      55% 50%,
+      80% 80%;
+    background-size: 0, 0, 0;
+    font-size: 2.5vw;
+  }
+  100% {
+    background-size: 2vw, 2.5vw, 2vw;
+    background-position:
+      0% 100%,
+      65% 0%,
+      100% 100%;
+    font-size: 3vw;
+  }
+}
+@keyframes firstClicked {
+  0% {
+    background-position:
+      30% 80%,
+      55% 50%,
+      80% 80%;
+    background-size: 0, 0, 0;
+    font-size: 2.5vw;
+  }
+  50% {
+    background-size: 2vw, 2.5vw, 2vw;
+    background-position:
+      0% 100%,
+      65% 0%,
+      100% 100%;
+    font-size: 3vw;
+  }
+  100% {
+    background-position:
+      30% 80%,
+      55% 50%,
+      80% 80%;
+    background-size: 0, 0, 0;
+    font-size: 2.5vw;
+  }
+}
+
+.secondlyNotHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Secondly/TOM_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Secondly/TOM_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-out 0.4s secondly forwards;
+}
+.secondlyHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Secondly/TOM_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Secondly/TOM_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-in 0.4s secondlyHover forwards;
+}
+@keyframes secondly {
+  0% {
+    background-size: 3vw, 2vw;
+    background-position:
+      0% 40%,
+      100% 100%;
+    font-size: 3vw;
+  }
+  100% {
+    background-position:
+      40% 50%,
+      60% 50%;
+    background-size: 0, 0, 0;
+    font-size: 2.5vw;
+  }
+}
+@keyframes secondlyHover {
+  0% {
+    background-size: 0, 0, 0;
+    background-position:
+      40% 50%,
+      60% 50%;
+    font-size: 2.5vw;
+  }
+  100% {
+    background-size: 3vw, 2vw;
+    background-position:
+      0% 40%,
+      100% 100%;
+    font-size: 3vw;
+  }
+}
+
+.thirdNotHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Third/DIM_BIG_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Third/DIM_SMALL_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Third/DIM_GREEN_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Third/DIM_BLUE_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-out 0.4s third forwards;
+}
+.thirdHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Third/DIM_BIG_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Third/DIM_SMALL_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Third/DIM_GREEN_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Third/DIM_BLUE_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-in 0.4s thirdHover forwards;
+}
+@keyframes third {
+  0% {
+    font-size: 3vw;
+    background-size: 3vw, 2vw, 2vw, 2vw;
+    background-position:
+      7% 20%,
+      0% 100%,
+      90% 20%,
+      100% 100%;
+  }
+  100% {
+    font-size: 2.5vw;
+    background-size: 0, 0, 0;
+    background-position:
+      35% 50%,
+      35% 50%,
+      55% 50%,
+      55% 50%;
+  }
+}
+@keyframes thirdHover {
+  0% {
+    font-size: 2.5vw;
+    background-size: 0, 0, 0;
+    background-position:
+      35% 50%,
+      35% 50%,
+      55% 50%,
+      55% 50%;
+  }
+  100% {
+    font-size: 3vw;
+    background-size: 3vw, 2vw, 2vw, 2vw;
+    background-position:
+      7% 20%,
+      0% 100%,
+      90% 20%,
+      100% 100%;
+  }
+}
+
+.quarterNotHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Quarter/EXE_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Quarter/EXE_TOP_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Quarter/EXE_BTM_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-out 0.4s quarter forwards;
+}
+.quarterHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Quarter/EXE_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Quarter/EXE_TOP_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Quarter/EXE_BTM_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-in 0.4s quarterHover forwards;
+}
+@keyframes quarter {
+  0% {
+    background-size: 3vw, 3vw, 2vw;
+    background-position:
+      0% 90%,
+      85% 10%,
+      100% 100%;
+    font-size: 3vw;
+  }
+  100% {
+    font-size: 2.5vw;
+    background-size: 0, 0, 0;
+    background-position:
+      40% 50%,
+      60% 50%,
+      50% 50%;
+  }
+}
+@keyframes quarterHover {
+  0% {
+    font-size: 2.5vw;
+    background-size: 0, 0, 0;
+    background-position:
+      40% 50%,
+      60% 50%,
+      50% 50%;
+  }
+  100% {
+    font-size: 3vw;
+    background-size: 3vw, 3vw, 2vw;
+    background-position:
+      0% 90%,
+      85% 10%,
+      100% 100%;
+  }
+}
+
+.fifthNotHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Fifth/HELP_LOGO_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_TRIANGLE_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_SQ_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_LOGO_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_CIRCLE_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-out 0.4s fifth forwards;
+}
+.fifthHovered {
+  background-image: url("../assets/images/Menu/ListBackground/Fifth/HELP_LOGO_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_TRIANGLE_LEFT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_SQ_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_LOGO_RIGHT.svg"),
+    url("../assets/images/Menu/ListBackground/Fifth/HELP_CIRCLE_RIGHT.svg");
+  background-repeat: no-repeat;
+  animation: ease-in 0.4s fifthHover forwards;
+}
+@keyframes fifth {
+  0% {
+    font-size: 3vw;
+    background-size: 2vw, 4vw, 2.5vw, 2vw, 3vw;
+    background-position:
+      15% 0%,
+      0% 70%,
+      85% 30%,
+      95% 20%,
+      100% 100%;
+  }
+  100% {
+    font-size: 2.5vw;
+    background-size: 0, 0, 0, 0, 0;
+    background-position:
+      20% 50%,
+      40% 50%,
+      50% 50%,
+      90% 50%,
+      70% 50%;
+  }
+}
+@keyframes fifthHover {
+  0% {
+    font-size: 2.5vw;
+    background-size: 0, 0, 0, 0, 0;
+    background-position:
+      20% 50%,
+      40% 50%,
+      50% 50%,
+      90% 50%,
+      70% 50%;
+  }
+  100% {
+    font-size: 3vw;
+    background-size: 2vw, 4vw, 2.5vw, 2vw, 3vw;
+    background-position:
+      15% 0%,
+      0% 70%,
+      85% 30%,
+      95% 20%,
+      100% 100%;
+  }
+}

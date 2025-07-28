@@ -1,0 +1,12 @@
+version: '3.5'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: crowdapps-v2
+    ports:
+      - '3004:3000'
+    env_file:
+      - .env

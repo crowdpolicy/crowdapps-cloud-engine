@@ -1,0 +1,16 @@
+{
+  "el": {
+    "title": "Δείτε τους συνεργάτες μας και τους συμβεβλημένους δήμους & περιφέρειες στον χάρτη",
+    "subTitle": "Κάντε κλικ στον χάρτη",
+    "memorandum": "Υπόμνημα",
+    "municipalities": "Συμβεβλημένοι δήμοι & περιφέρειες",
+    "collaborations": "Συνεργασίες"
+  },
+  "en": {
+    "title": "See our partners and the contracted municipalities & regions on the map",
+    "subTitle": "Click on the map",
+    "memorandum": "Memorandum",
+    "municipalities": "Contracted municipalities & regions",
+    "collaborations": "Collaborations"
+  }
+}

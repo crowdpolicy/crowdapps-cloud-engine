@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="333" height="1233" viewBox="0 0 333 1233">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5491" data-name="Rectangle 5491" width="333" height="1233" rx="30" transform="translate(30 3934)" fill="#4eacc2" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="CITY_ON_BG" data-name="CITY ON BG" transform="translate(-30 -3934)">
+    <g id="Rectangle_5488" data-name="Rectangle 5488" transform="translate(30 3934)" fill="#00afc5" stroke="#fff" stroke-width="1">
+      <rect width="333" height="1233" rx="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="332" height="1232" rx="29.5" fill="none"/>
+    </g>
+    <g id="Rectangle_5490" data-name="Rectangle 5490" transform="translate(30 3934)" fill="#00afc5" stroke="#fff" stroke-width="1">
+      <rect width="333" height="1233" rx="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="332" height="1232" rx="29.5" fill="none"/>
+    </g>
+    <g id="Mask_Group_12173" data-name="Mask Group 12173" clip-path="url(#clip-path)">
+      <g id="Group_12543" data-name="Group 12543" transform="translate(0 21.418)">
+        <g id="Group_12098" data-name="Group 12098" transform="translate(-93.643 4175)" opacity="0.127">
+          <path id="Path_322" data-name="Path 322" d="M5405,975.394c0-85.435,69.54-154.975,155.473-154.975,85.434,0,154.973,69.54,154.973,154.975,0,85.931-69.539,155.471-154.973,155.471A155.386,155.386,0,0,1,5405,975.394Zm275.127-.79a119.017,119.017,0,0,0-119.36-119.361c-67.275,0-120.445,53.17-120.445,119.361,0,67.276,53.17,120.444,120.445,120.444C5626.954,1095.048,5680.124,1041.88,5680.124,974.6Z" transform="translate(-5404.997 -820.419)" fill="#eeedf2"/>
+        </g>
+        <g id="Group_12100" data-name="Group 12100" transform="translate(393 4758.687) rotate(90)" opacity="0.127">
+          <path id="Path_324" data-name="Path 324" d="M125.448,62.825A62.724,62.724,0,1,1,62.623,0,62.748,62.748,0,0,1,125.448,62.825Zm-84.9.2a22.18,22.18,0,1,0,22.08-22.28A22.016,22.016,0,0,0,40.544,63.026Z" transform="translate(0 226.947)" fill="#eeedf2"/>
+          <g id="Group_581" data-name="Group 581" transform="translate(15.758)">
+            <path id="Path_271" data-name="Path 271" d="M0,236.242v-61.6L199.133,0h94.731L91.084,179.221l88.657,1.819,191.4-3.2v58.4Z" fill="#eeedf2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

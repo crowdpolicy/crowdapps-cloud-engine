@@ -1,0 +1,16 @@
+{
+  "el": {
+    "address": "Γράμμου 82, Μοσχάτο, ΤΚ 183 45",
+    "appServ": "Εφαρμογές & Υπηρεσίες",
+    "municipalities": "Δήμοι & Περιφέρειες",
+    "evolves": "Εξελίξεις",
+    "support": "Υποστήριξη"
+  },
+  "en": {
+    "address": "Grammou 82, Moschato PC 183 45",
+    "appServ": "Applications & Services",
+    "municipalities": "Sectors",
+    "evolves": "Contact",
+    "support": "About the products and services"
+  }
+}

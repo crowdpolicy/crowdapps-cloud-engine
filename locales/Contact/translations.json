@@ -1,0 +1,20 @@
+{
+  "el": {
+    "newsletter": "Επικοινωνήστε μαζί μας",
+    "placeholder": "Συμπληρώστε το e-mail σας",
+    "address": "Γράμμου 82, Μοσχάτο, ΤΚ 183 45",
+    "aboutProducts": "Σχετικά με τα προϊοντα και τις υπηρεσίες",
+    "buttonAbout": "Επικοινωνία",
+    "support360": "Τεχνική Υποστήριξη",
+    "buttonSupport": "Επικοινωνία"
+  },
+  "en": {
+    "newsletter": "Contact us",
+    "placeholder": "Fill in your email",
+    "address": "Grammou 82, Moschato PC 183 45",
+    "aboutProducts": "About the products and services",
+    "buttonAbout": "Contact",
+    "support360": "Technical Support",
+    "buttonSupport": "Contact"
+  }
+}

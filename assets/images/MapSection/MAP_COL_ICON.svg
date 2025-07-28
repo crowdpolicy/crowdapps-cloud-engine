@@ -1,0 +1,10 @@
+<svg id="MAP_COL_ICON" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="52.272" viewBox="0 0 35 52.272">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.773" y1="0.093" x2="0.275" y2="0.726" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a6db"/>
+      <stop offset="1" stop-color="#855aa1"/>
+    </linearGradient>
+  </defs>
+  <path id="Exclusion_23" data-name="Exclusion 23" d="M17.5,0A17.471,17.471,0,0,1,35,17.443c0,9.633-13.023,34.737-17.5,34.829S0,27.076,0,17.443A17.471,17.471,0,0,1,17.5,0Z" fill="url(#linear-gradient)"/>
+  <path id="Polygon_6" data-name="Polygon 6" d="M10.86.654a.3.3,0,0,1,.553,0L14.3,7.476a.3.3,0,0,0,.244.181l7.088.779a.3.3,0,0,1,.173.516l-5.319,5.03a.3.3,0,0,0-.088.278l1.488,7.34a.3.3,0,0,1-.45.316l-6.141-3.733a.3.3,0,0,0-.312,0L4.84,21.917a.3.3,0,0,1-.45-.316l1.488-7.34a.3.3,0,0,0-.088-.278L.471,8.953a.3.3,0,0,1,.173-.516l7.088-.779a.3.3,0,0,0,.244-.181Z" transform="translate(6.364 6.363)" fill="#fff"/>
+</svg>

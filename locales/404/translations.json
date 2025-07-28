@@ -1,0 +1,12 @@
+{
+  "el": {
+    "title": "Η σελίδα δεν βρέθηκε…",
+    "subTitle": "Δυστυχώς δεν υπάρχει κάποιο crowdapp για αυτό ακόμη.",
+    "button": "Πίσω στην αρχική"
+  },
+  "en": {
+    "title": "The page was not found...",
+    "subTitle": "Unfortunately, there is no crowdapp for this yet.",
+    "button": "Back to home page"
+  }
+}

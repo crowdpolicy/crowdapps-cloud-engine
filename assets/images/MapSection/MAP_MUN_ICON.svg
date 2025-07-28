@@ -1,0 +1,10 @@
+<svg id="MAP_MUN_ICON" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="52.272" viewBox="0 0 35 52.272">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.773" y1="0.093" x2="0.275" y2="0.726" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffbc35"/>
+      <stop offset="1" stop-color="#fa5e63"/>
+    </linearGradient>
+  </defs>
+  <path id="Exclusion_24" data-name="Exclusion 24" d="M17.5,0A17.471,17.471,0,0,1,35,17.443c0,9.633-13.023,34.737-17.5,34.829S0,27.076,0,17.443A17.471,17.471,0,0,1,17.5,0Z" fill="url(#linear-gradient)"/>
+  <circle id="Ellipse_365" data-name="Ellipse 365" cx="7.955" cy="7.955" r="7.955" transform="translate(9.546 9.545)" fill="#fff"/>
+</svg>

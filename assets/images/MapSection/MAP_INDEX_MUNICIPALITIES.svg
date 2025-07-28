@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29" height="29" viewBox="0 0 29 29">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.854" y1="0.149" x2="0.142" y2="0.841" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffbb31"/>
+      <stop offset="1" stop-color="#f45c62"/>
+    </linearGradient>
+  </defs>
+  <g id="MAP_INDEX_MUNICIPALITIES" transform="translate(-4121 -665)">
+    <circle id="Ellipse_366" data-name="Ellipse 366" cx="14.5" cy="14.5" r="14.5" transform="translate(4121 665)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_364" data-name="Ellipse 364" cx="6.5" cy="6.5" r="6.5" transform="translate(4129.327 673)" fill="#fff"/>
+  </g>
+</svg>
